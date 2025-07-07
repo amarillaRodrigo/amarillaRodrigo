@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working Outlier AI<br>🤝 I am studying for a degree in Multiplatform Software Development.<br>🌱 I’m currently learning React Native and Expo
 
 
