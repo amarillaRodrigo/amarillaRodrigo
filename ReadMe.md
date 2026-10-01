@@ -39,9 +39,3 @@ Microservicio de autenticación y operaciones en producción.
 ## 🌱 En aprendizaje
 
 Actualmente profundizando en **Cloud Engineering**. Próximo objetivo: **AWS Certified Developer – Associate** para ampliar mi dominio del ecosistema AWS y el despliegue de backends en la nube.
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=amarillaRodrigo&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=amarillaRodrigo&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amarillaRodrigo&theme=dark&hide_border=false&layout=compact)
